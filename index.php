@@ -1,8 +1,5 @@
 <?php
 
-echo 123;
-
-
-
+echo "Tesproject for Git";
 
 
